@@ -1,2 +1,2 @@
-# sale_price
-sale price data analysis
+# sale price data analysis
+This is the summary of data analysis for the sales price data from Kaggle
